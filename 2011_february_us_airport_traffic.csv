@@ -1,7 +1,7 @@
 iata,airport,city,state,country,lat,long,cnt
 ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417,25129
 NRT,Narita International Airport,Chiba,JP,35.763889,140.391667,1000
-HND,Tokyo International Airport,Tokyo,JP,35.553333	139.781111,1000
+HND,Tokyo International Airport,Tokyo,JP,35.553333,139.781111,1000
 ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444,21925
 DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372,20662
 PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556,17290
